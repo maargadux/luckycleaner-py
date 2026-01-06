@@ -20,7 +20,7 @@ It is a beginner-friendly project focused on practicing logic and understanding 
 2. Open the terminal in the project folder
 3. Run the command:
 
-```bash
+```bash ``` ##(ignore this ```)
 python main.py
 
 ---
